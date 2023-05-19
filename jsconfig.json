@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "baseUrl": "."
+  },
+  "include": ["src/**/*", "src/sections/@dashboard/user/UserDialog.js"],
+  "exclude": ["node_modules"]
+}
